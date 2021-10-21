@@ -1,0 +1,14 @@
+{
+  "name": "mines",
+  "version": "1.0.0",
+  "description": "A poor miner is trapped in a mine and you have to help him to get out !",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Dean Spooner",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.3.1"
+  }
+}
