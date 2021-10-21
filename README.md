@@ -21,3 +21,5 @@ Let's take a pretty basic example:
 
     solve(map, {x:0,y:0}, {x:1,y:1});
     // Should return ['right', 'down']
+
+<img src="./diagram.png">
